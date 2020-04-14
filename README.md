@@ -8,5 +8,5 @@ The repository contains a list of projects aiming to show simple core Android fu
 
 # Project Info
 
-* *Slide Deck*: Data Persistence
-* *Project Info*: Simple project showing how to work with Room Library for Data (DB) Storage
+* *Slide Deck*: Live Data
+* *Project Info*: Project showing how to work with Room and Live Data for Data Management
